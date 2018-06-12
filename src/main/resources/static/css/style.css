@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+#wrapper {
+    width: 90%;
+    margin: 0 auto;
+    padding: 30px;
+    font-family: sans-serif;
+}
+
+#header {
+    width: 100%;
+    padding: 0 0 0 30px;
+}
+
+#wrapper .option {
+    width: 20%;
+    display: inline-block;
+    text-align: center;
+    border: 1px solid #474747;
+    margin: 2%;
+    padding-bottom: 20px;
+}
+
+.gold {
+    display: inline;
+}
+
+#activities {
+    width: 97%;
+	overflow-x: auto;
+	height:200px;
+    border: 1px solid #474747;
+    position : relative;
+    bottom:0;
+    padding: 10px;
+}
+
+h2 {
+	font-size:.8em;
+}
